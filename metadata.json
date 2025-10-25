@@ -1,0 +1,5 @@
+{
+  "name": "Fact Check VN",
+  "description": "An AI-powered application to verify the authenticity of Vietnamese news articles. Users can paste text or a URL to check against reliable sources.",
+  "requestFramePermissions": []
+}
